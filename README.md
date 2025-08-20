@@ -14,8 +14,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-*(em breve, vou preencher com os links dos seus repositórios 😉)*  
+## 🚀 Projetos em Destaque  
 - [Exercícios de Lógica em Python](#)  
 - [Portfólio Pessoal (HTML/CSS)](#)  
 - [Lista de Tarefas (To-Do App)](#)  
@@ -31,12 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
 
 ---
 
